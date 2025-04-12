@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "mediaPlayer",
+    "slug": "mediaPlayer",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "mediaplayer.epa"
+    },
+    "ios": {
+      "bundleIdentifier": "mediaplayer.epa",
+      "usesIcloudStorage": true
+    },
+    "plugins": [
+      [
+        "expo-document-picker"
+      ]
+    ]
+  },
+  "name": "mediaPlayer"
+}
